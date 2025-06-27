@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "client",
   "version": "0.1.0",
   "private": true,
@@ -24,41 +23,10 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
+    "extends": ["react-app", "react-app/jest"]
   },
   "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-=======
-  "name": "server",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "dependencies": {
-    "bcryptjs": "^3.0.2",
-    "cors": "^2.8.5",
-    "dotenv": "^16.6.0",
-    "express": "^5.1.0",
-    "jsonwebtoken": "^9.0.2",
-    "pg": "^8.16.3"
->>>>>>> bfe858b0ea61ebd0645413f87e82b65c2c427258
+    "production": [">0.2%", "not dead", "not op_mini all"],
+    "development": ["last 1 chrome version", "last 1 firefox version", "last 1 safari version"]
   }
 }
